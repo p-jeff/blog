@@ -2,7 +2,7 @@
   "type": "module",
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "~5.0.0",
-    "@sveltejs/adapter-auto": "~1.0.0",
+    "@sveltejs/adapter-static": "~1.0.0",
     "@sveltejs/kit": "~1.0.0",
     "abrusco": "~0.22.0",
     "cssnano": "~5.1.0",
