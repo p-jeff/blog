@@ -19,6 +19,10 @@
   "scripts": {
     "dev": "vite dev",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "node ./gh-pages.js"
+  },
+  "dependencies": {
+    "gh-pages": "^5.0.0"
   }
 }
