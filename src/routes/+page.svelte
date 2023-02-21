@@ -10,7 +10,7 @@ export let data
 <svelte:head>
   <title>{config.siteTitle} &ndash; {config.siteTagline}</title>
   <meta name="description" content={data.post.description} />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Josefin+Sans" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lustria" />
 </svelte:head>
 
 <PostSection post={data.post} />
