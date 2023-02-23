@@ -1,6 +1,6 @@
 ---
 title: Related To GRWM
-draft:true
+draft: true
 ---
 HEREBY
 1. asd
