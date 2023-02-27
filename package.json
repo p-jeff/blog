@@ -20,7 +20,7 @@
     "dev": "vite dev",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "node ./gh-pages.js"
+    "deploy": "npm run build && node ./gh-pages.js"
   },
   "dependencies": {
     "gh-pages": "^5.0.0"

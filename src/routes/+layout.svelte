@@ -9,6 +9,7 @@ export let data
 
 <svelte:head>
   <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lustria" />
 </svelte:head>
 
 <PageLoader />
